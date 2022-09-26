@@ -116,175 +116,175 @@
     ➡️ İçlemler nerede Kullanılır ve İçlemlere Neden Gereksinim Duyulmaktadır?
 
 ## 📌Sınıflar
-    * Nesne Yönelimli Programlama Modeli ve Sınıf Kavramı
-    * Sınıfların Tanımlanması
-    * Sınıflar Türünden Nesnelerin Yaratılması
-    * Sınıf Değişkenleri 
-    * Metotların Tanımlanması ve self Parametresinin Anlamı
-    * Sınıfların Dunder (Başında ve Sonunda İki Alt Tire Bulunan) Metotları
-    * Sınıfların \__new__ ve \__init__ Metotları
-    * Python Standart Kütüphanesindeki Yardımcı Sınıflarla İlgili Alıştırmalar
-    * Sınıfların Öznitelikleri (Class Attributes)
-    * Sınıfların Örnek Öznitelikleri (Instance Attributes)
-    * Sınıf İsimlerinin Anlamı
-    * Nesne Yönelimli Programlama Tekniğinde Sınıflar Arasındaki İlişki Biçimleri
-    * Sınıflarda Türetme İşlemleri (Inheritance)
-    * Çoklu Türetmeler (Multiple Inheritance)
-    * Türetme Durumlarında Taban Sınıfın \__init\__ Metodunun Çağrılması
-    * super Fonksiyonu
-    * Sınıflarda Kapsülleme (Encapsulation)
-    * Çokbiçimlilik (Polymorphism)
-    * Sınıfların \__str\__ ve \__repr\__ Metotları
-    * Python'da Çöp Toplayıcı Mekanizma
-    * Deterministik Çöp Toplama ve Sınıfların \__del\__ Metotları
-    * Operatör Metotları
-    * Sınıfların Statik Metotları
-    * Sınıfların Sınıf Metotları
-    * Sınıflardaki Diğer Özel Dunder Metotları
-    * Dolaşılabilir (Irterable) Sınıfların Oluşturulması
-    * Property Kavramı ve Property Kullanımı
-    * Betimleyiciler
-    * Sınıfların \__get\__, \__set\__ ve \__delete\__ Metotları
+    ➡️ Nesne Yönelimli Programlama Modeli ve Sınıf Kavramı
+    ➡️ Sınıfların Tanımlanması
+    ➡️ Sınıflar Türünden Nesnelerin Yaratılması
+    ➡️ Sınıf Değişkenleri 
+    ➡️ Metotların Tanımlanması ve self Parametresinin Anlamı
+    ➡️ Sınıfların Dunder (Başında ve Sonunda İki Alt Tire Bulunan) Metotları
+    ➡️ Sınıfların \__new__ ve \__init__ Metotları
+    ➡️ Python Standart Kütüphanesindeki Yardımcı Sınıflarla İlgili Alıştırmalar
+    ➡️ Sınıfların Öznitelikleri (Class Attributes)
+    ➡️ Sınıfların Örnek Öznitelikleri (Instance Attributes)
+    ➡️ Sınıf İsimlerinin Anlamı
+    ➡️ Nesne Yönelimli Programlama Tekniğinde Sınıflar Arasındaki İlişki Biçimleri
+    ➡️ Sınıflarda Türetme İşlemleri (Inheritance)
+    ➡️ Çoklu Türetmeler (Multiple Inheritance)
+    ➡️ Türetme Durumlarında Taban Sınıfın \__init\__ Metodunun Çağrılması
+    ➡️ super Fonksiyonu
+    ➡️ Sınıflarda Kapsülleme (Encapsulation)
+    ➡️ Çokbiçimlilik (Polymorphism)
+    ➡️ Sınıfların \__str\__ ve \__repr\__ Metotları
+    ➡️ Python'da Çöp Toplayıcı Mekanizma
+    ➡️ Deterministik Çöp Toplama ve Sınıfların \__del\__ Metotları
+    ➡️ Operatör Metotları
+    ➡️ Sınıfların Statik Metotları
+    ➡️ Sınıfların Sınıf Metotları
+    ➡️ Sınıflardaki Diğer Özel Dunder Metotları
+    ➡️ Dolaşılabilir (Irterable) Sınıfların Oluşturulması
+    ➡️ Property Kavramı ve Property Kullanımı
+    ➡️ Betimleyiciler
+    ➡️ Sınıfların \__get\__, \__set\__ ve \__delete\__ Metotları
 
 ## 📌Dekoratörler
-    * Dekoratörlerin Anlamı
-    * Fonksiyon Dekoratörleri
-    * Sınıf Dekoratörleri
-    * Önemli sınıf Dekaratörleri
+    ➡️ Dekoratörlerin Anlamı
+    ➡️ Fonksiyon Dekoratörleri
+    ➡️ Sınıf Dekoratörleri
+    ➡️ Önemli sınıf Dekaratörleri
 
 ## 📌Exception Mekanizması
-    * Python'da Exception Mekanizmasının Kullanımı
-    * Exception'ların oluşturulması ve yakalanması
-    * Exception Sınıflarının Yazılması
-    * Çok Karşılaşılan Exception Sınıfları
-    * with deyimi
+    ➡️ Python'da Exception Mekanizmasının Kullanımı
+    ➡️ Exception'ların oluşturulması ve yakalanması
+    ➡️ Exception Sınıflarının Yazılması
+    ➡️ Çok Karşılaşılan Exception Sınıfları
+    ➡️ with deyimi
 
 ## 📌Python'da Dosya İşlemleri
-    * Dosya İşlemleri
-    * Dosyaların Açılması ve Kapatılması
-    * Dosyalarda Yazma ve Okuma İşlemleri
-    * Text ve Binary Dosyalar
-    * Text Dosyalarda Karakter Kodlaması (Character Encoding)
-    * Karakter Kodlama Dönüştürmeleri
+    ➡️ Dosya İşlemleri
+    ➡️ Dosyaların Açılması ve Kapatılması
+    ➡️ Dosyalarda Yazma ve Okuma İşlemleri
+    ➡️ Text ve Binary Dosyalar
+    ➡️ Text Dosyalarda Karakter Kodlaması (Character Encoding)
+    ➡️ Karakter Kodlama Dönüştürmeleri
 
 ## 📌Üretici Fonksiyonlar ve Lambda İfadeleri
-    * Üretici Fonksiyon (Generators) Kavramı
-    * Üretici Fonksiyonların Tanımlanması ve Kullanılması
-    * Lambda İfadeleri
+    ➡️ Üretici Fonksiyon (Generators) Kavramı
+    ➡️ Üretici Fonksiyonların Tanımlanması ve Kullanılması
+    ➡️ Lambda İfadeleri
 
 ## 📌Diğer Önemli Built-In Fonksiyonlar
-    * eval Fonksiyonu
-    * exec Fonksiyonu
-    * compiler Fonksiyonu
-    * property Fonksiyonu
-    * locals Fonksiyonu
+    ➡️ eval Fonksiyonu
+    ➡️ exec Fonksiyonu
+    ➡️ compiler Fonksiyonu
+    ➡️ property Fonksiyonu
+    ➡️ locals Fonksiyonu
 
 ## 📌Python'da Paketler (Packages)
-    * Paket Kavramı
-    * Paketlerin Oluşturulması ve import Edilmesi
-    * Paketlerdeki \__init\__.py Dosyasının Anlamı
-    * İç İçe Paketlerin Oluşturulması
-    * Paket Yönetimi
+    ➡️ Paket Kavramı
+    ➡️ Paketlerin Oluşturulması ve import Edilmesi
+    ➡️ Paketlerdeki \__init\__.py Dosyasının Anlamı
+    ➡️ İç İçe Paketlerin Oluşturulması
+    ➡️ Paket Yönetimi
     
 ## 📌Genel Amaçlı Bazı İşlemlerin Gerçekleştirilmesi
-    * Standart Kütüphanede Tarih ve Zaman İşlemleri Yapan Fonksiyonların ve Sınıfların Kullanımı
-    * Dizin ve Dosyalar Üzerinde İşlemler Yapan Fonksiyonların ve Sınıfların Kullanımı
-    * İşletim Sistemi İle İlgili Aşağı Seviyeli Önemli Bazı İşlemlerin Yapılması
-    * Python'da Log'lama İşlemleri
-    * Python'da Debugger Kullanımı
-    * Zaman Ölçme İşlemleri ve Profiling
-    * Sisteme İlişkin Önemli Bilgilerin Elde Edilmesi ve Değiştirilmesi
-    * Çöp Toplayıcı Mekanizmanın Ayrıntıları
-    * Nesnelerin Seri Hale Getirilmesi 
-    * Programların Komut Satırı Argümanları
+    ➡️ Standart Kütüphanede Tarih ve Zaman İşlemleri Yapan Fonksiyonların ve Sınıfların Kullanımı
+    ➡️ Dizin ve Dosyalar Üzerinde İşlemler Yapan Fonksiyonların ve Sınıfların Kullanımı
+    ➡️ İşletim Sistemi İle İlgili Aşağı Seviyeli Önemli Bazı İşlemlerin Yapılması
+    ➡️ Python'da Log'lama İşlemleri
+    ➡️ Python'da Debugger Kullanımı
+    ➡️ Zaman Ölçme İşlemleri ve Profiling
+    ➡️ Sisteme İlişkin Önemli Bilgilerin Elde Edilmesi ve Değiştirilmesi
+    ➡️ Çöp Toplayıcı Mekanizmanın Ayrıntıları
+    ➡️ Nesnelerin Seri Hale Getirilmesi 
+    ➡️ Programların Komut Satırı Argümanları
 
 ## 📌Python'da Veritabanı İşlemleri
-   * Veritabanı Yönetim Sistemleri (VTYS)
-   * SqLite, MySQL ve SqlServer VTYS'leri Hakkında Temel Bilgiler
-   * İlişkisel Veritabanları
-   * Temel SQL Komutları
-   * Python'da VTSY'e Bağlanma
-   * VTYS'lere SQL Komutlarının Gönderilmesi
-   * VTYS'lerle Sorgulama İşlemleri
-   * Python'da Anahtar Değer Temelli DBM Veritabanı Kullanımı
+    ➡️ Veritabanı Yönetim Sistemleri (VTYS)
+    ➡️ SqLite, MySQL ve SqlServer VTYS'leri Hakkında Temel Bilgiler
+    ➡️ İlişkisel Veritabanları
+    ➡️ Temel SQL Komutları
+    ➡️ Python'da VTSY'e Bağlanma
+    ➡️ VTYS'lere SQL Komutlarının Gönderilmesi
+    ➡️ VTYS'lerle Sorgulama İşlemleri
+    ➡️ Python'da Anahtar Değer Temelli DBM Veritabanı Kullanımı
 
 ## 📌Python'da Thread Uygulamaları
-   * Thread Kavramı
-   * Thread'lerin Yaratılması ve Sonlanması
-   * Thread'lerle İlgili Temel İşlemler
-   * Thread'lerin Stack'leri
-   * Thread'lerin Bloke Olması
-   * Thread Senkronizasyonu
-   * Lock (Mutex) Mekanizması
-   * Semaphore Nesnelerinin Kullanımı
-   * Tipik Senkronizasyon Problemlerinin Ele Alınması
-   * Senkronize Kuyruk Nesneleri
-   * Python'da Paralel Programlama
-   * Prosesler Arası Haberleşme Kavramı
-   * Paylaşılan Bellek Alanlarının Kullanımı
-   * Boru Mekanizmasının Kullanımı
+    ➡️ Thread Kavramı
+    ➡️ Thread'lerin Yaratılması ve Sonlanması
+    ➡️ Thread'lerle İlgili Temel İşlemler
+    ➡️ Thread'lerin Stack'leri
+    ➡️ Thread'lerin Bloke Olması
+    ➡️ Thread Senkronizasyonu
+    ➡️ Lock (Mutex) Mekanizması
+    ➡️ Semaphore Nesnelerinin Kullanımı
+    ➡️ Tipik Senkronizasyon Problemlerinin Ele Alınması
+    ➡️ Senkronize Kuyruk Nesneleri
+    ➡️ Python'da Paralel Programlama
+    ➡️ Prosesler Arası Haberleşme Kavramı
+    ➡️ Paylaşılan Bellek Alanlarının Kullanımı
+    ➡️ Boru Mekanizmasının Kullanımı
 
 ## 📌Python'da GUI Uygulamaları
-   * GUI Ortamlarında Mesaj Tabanlı Çalışma Modeli
-   * PyQt Kütüphanesinin Kullanılması
-   * Tkinter Kütüphanesinin Kullanılması
+    ➡️ GUI Ortamlarında Mesaj Tabanlı Çalışma Modeli
+    ➡️ PyQt Kütüphanesinin Kullanılması
+    ➡️ Tkinter Kütüphanesinin Kullanılması
 
 ## 📌Python'da Proseslerarası Haberleşme ve Network Ağ Haberleşmeleri
-   * IP Protokol Ailesi
-   * Python'da Soket Programlama
-   * Client-Server Çalışma Modeli
-   * TCP/IP Uygulamaları
-   * UDP/IP Uygulamaları
-   * E-Posta Alma ve Gönderme
-   * FTP İşlemleri
-   * Dağıtık Uygulamaların Temelleri
+    ➡️ IP Protokol Ailesi
+    ➡️ Python'da Soket Programlama
+    ➡️ Client-Server Çalışma Modeli
+    ➡️ TCP/IP Uygulamaları
+    ➡️ UDP/IP Uygulamaları
+    ➡️ E-Posta Alma ve Gönderme
+    ➡️ FTP İşlemleri
+    ➡️ Dağıtık Uygulamaların Temelleri
 
 ## 📌Çeşitli Dosya Formatları Üzerinde İşlemler
-   * Dosya Sıkıştırma ve Açma İşlemleri 
-   * CSV Dosyalarıyla ve Konfigürasyon Dosyalarıyla İşlemler
-   * Temel XML İşlemleri
-   * Temel HTML Parse İşlemleri
+    ➡️ Dosya Sıkıştırma ve Açma İşlemleri 
+    ➡️ CSV Dosyalarıyla ve Konfigürasyon Dosyalarıyla İşlemler
+    ➡️ Temel XML İşlemleri
+    ➡️ Temel HTML Parse İşlemleri
 
 ## 📌Numpy Kütüphanesinin Kullanımı
-   * Numpy Kütüphanesinde Temel İşlemler
-   * Numpy Dizileri İle Vektörel İşlemler
-   * NumPy Dizilerinde İndeksleme ve Dilimleme
-   * NumPy Kütüphanesinde Vektörel İşlemler Yapan Fonksiyonlar
-   * NumPy ile Lineer Cebir İşlemleri
-   * NumPy Dosya İşlemleri
-   * İleri Düzey Numpy İşlemleri
+    ➡️ Numpy Kütüphanesinde Temel İşlemler
+    ➡️ Numpy Dizileri İle Vektörel İşlemler
+    ➡️ NumPy Dizilerinde İndeksleme ve Dilimleme
+    ➡️ NumPy Kütüphanesinde Vektörel İşlemler Yapan Fonksiyonlar
+    ➡️ NumPy ile Lineer Cebir İşlemleri
+    ➡️ NumPy Dosya İşlemleri
+    ➡️ İleri Düzey Numpy İşlemleri
 
 ## 📌Sembolik Matemetiksel İşlemler ve SymPy Kütüphanesinin Kullanımı
-   * SymPy Kütüphanesinin Tanıtımı
-   * SymPy'da İfadelerin Oluşturulması ve İfade Ağaçları
-   * İfadelerin Sadeleştirilmesi
-   * İfadelerin Açılması
-   * İfadelerin Değerlerinin Elde Edilmesi
-   * İfadeler Üzerinde Matematiksel İşlemler
+    ➡️ SymPy Kütüphanesinin Tanıtımı
+    ➡️ SymPy'da İfadelerin Oluşturulması ve İfade Ağaçları
+    ➡️ İfadelerin Sadeleştirilmesi
+    ➡️ İfadelerin Açılması
+    ➡️ İfadelerin Değerlerinin Elde Edilmesi
+    ➡️ İfadeler Üzerinde Matematiksel İşlemler
 
 ## 📌Python'da Grafik Çizimleri ve PyPlot Kütüphanesinin Kullanımı
-   * Grafik Çizimi İle İlgili Temel Nesneler
-   * Grafiklerin Çizdirilmesi
-   * Çizim Nesnelerine İlişkin Ayrıntılar
-   * Çizgi Grafikleri, Çubuk Grafikleri, Histogram'lar, Pasta Grafikleri
+    ➡️ Grafik Çizimi İle İlgili Temel Nesneler
+    ➡️ Grafiklerin Çizdirilmesi
+    ➡️ Çizim Nesnelerine İlişkin Ayrıntılar
+    ➡️ Çizgi Grafikleri, Çubuk Grafikleri, Histogram'lar, Pasta Grafikleri
 
 ## 📌Pandas Kütüphanesinin Kullanımı
-   * Pandas Kütüphanesinin Amacı
-   * Seriler Üzerinde İşlemler
-   * Seriler Üzerinde İndeksleme
-   * Seriler Üzerinde Dilimleme
-   * DataFrame Nesneleri
-   * DaraFrame Üzerinde Satır ve Sütun Seçme İşlemleri
-   * DataFrame' Sütun Ekleme ve Silme
-   * DataFrame Üzerinde Aritmetik İşlemler
-   * CSV Dosyalarının DataFrame Olarak Okunması
-   * Eksik Veriler Üzerinde İşlemler
-   * Verilerin Gruplanması ve Birleştirilmesi
-   * Pandas'ta Verilerin Görüntülenmesi
+    ➡️ Pandas Kütüphanesinin Amacı
+    ➡️ Seriler Üzerinde İşlemler
+    ➡️ Seriler Üzerinde İndeksleme
+    ➡️ Seriler Üzerinde Dilimleme
+    ➡️ DataFrame Nesneleri
+    ➡️ DaraFrame Üzerinde Satır ve Sütun Seçme İşlemleri
+    ➡️ DataFrame' Sütun Ekleme ve Silme
+    ➡️ DataFrame Üzerinde Aritmetik İşlemler
+    ➡️ CSV Dosyalarının DataFrame Olarak Okunması
+    ➡️ Eksik Veriler Üzerinde İşlemler
+    ➡️ Verilerin Gruplanması ve Birleştirilmesi
+    ➡️ Pandas'ta Verilerin Görüntülenmesi
 
 ## 📌Özel Bazı Konular
-   * Şifreleme İşlemleri
-   * Pyton'da Yazılım Test İşlemleri
-   * Düzenli İfadelerle İşlemler (Regular Expressions)
-   * Python'dan C ve C++ Kodlarının Çağrılması
+    ➡️ Şifreleme İşlemleri
+    ➡️ Pyton'da Yazılım Test İşlemleri
+    ➡️ Düzenli İfadelerle İşlemler (Regular Expressions)
+    ➡️ Python'dan C ve C++ Kodlarının Çağrılması
 
