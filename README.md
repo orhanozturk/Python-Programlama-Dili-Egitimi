@@ -1,114 +1,119 @@
-# Python Programlama Dili ve Uygulamaları Egitimi
+# Python Programlama Dili Egitimi (Düzenlenmektedir)
 
-* __Temel Kavramlar__
-  * Programlama Dillerinin Tarihsel Gelişimi
-  * Python Programlama Dilinin Tarihsel Gelişimi
-  * Python Dili, Python Gerçekleştirimleri ve Python Dağıtımları
-  * Python Programlama Dilinin Temel Özellikleri
-  * Python Neden Son Dönemlerde Popülerlik Kazanmıştır?
-  * Python Ortamının Kurulumu
-  * Temel Bilgisayar Mimarisi
-  * İşletim Sistemleri
-  * Gömülü Sistemler
-  * Çevirici Programlar (Translators), Derleyiciler (Compilers) ve Yorumlayıcılar (Interpreters)
-  * IDE Kavramı
-  * Mülkiyete Sahip Yazılımlar ve Açık Kaynak Kodlu Yazılımlar
-  * Doğal Kodlu ve Ara Kodlu Çalışma Sistemleri
-  * Dil Kavramı
-  * Dillerde Sentaks ve Semantik
-  * Bilgisayar Dilleri ve Programlama Dilleri
-  * Programlama Dillerinin Sınıflandırılması
-  * Programlama Dillerinin Sentakslarının Açıklanması İçin Kullanılan Notasyonlar
+### İçerik, Ders işleme sırası ile birebir değildir. Konu akışı farklılık gösterebilir. <br>
 
-* __Python Programlama Diline Giriş__
-    * Komut Yorumlayıcı Ortamda (REPL) Çalışma
-    * Atom (Token) Kavramı ve Atomların Sınıflandırılması
-    * Boşluk Karakterleri (White Space)
-    * Dinamik Tür Sisteminin Anlamı
-    * Python'da Temel Veri Türleri
-    * Değiştirilebilir (Mutable) ve Değiştirilemez (Immutable) Tür Kavramları
-    * Python'da Değişkenlerin ve Nesnelerin Yaratılması
-    * Python'da Sabitler
-    * Adres Kavramı ve Nesnelerin Adresleri
-    * Değişkenler ve Nesneler Arasındaki İlişki
-    * Python'da Dinamik Tür Sisteminin Gerçekleştirilme Biçimi
-    * Python Standart Kütüphanesi Nedir ve Nelerden Oluşmaktadır? 
-    * Fonksiyon ve Metot Kavramları
-    * Built-in Fonksiyon ve Sınıf Kavramları
-    * Operatör Kavramı, Operatörler Arasındaki Öncelik İlişkileri
-    * Python'da Operatörler
-    * Tür Dönüştürmeleri 
-    * input ve print Fonksiyonlarının Ayrıntıları
-    * Python Programlarının Yazılması ve Çalıştırılması
+	Konuları içeren Uygulama Dersleri olacaktır.
+	Ortalama 2 dersten sonra Oyun Quizleri yapılacaktır.
 
-* __Python'da Temel Veri Yapıları__
-    * Dolaşılabilir (Iterable) Nesne Kavramı
-    * range Fonksiyonu
-    * Listeler
-    * Listeler Üzerinde İşlemler
-    * Listeler Üzerinde Dilimleme İşlemleri (List Slicing)
-    * Listelerin Açılması (List Unpacking)
-    * Listelerle Çok Boyutlu Dizilerin Oluşturulması
-    * Demetler (Tuples)
-    * Demetler Üzerinde İşlemler
-    * Demetlerin Açılması (Tuple Unpacking)
-    * Kümeler (Sets)
-    * Kümeler Üzerinde İşlemler
-    * Değiştirilemez Kümeler (Frozen Sets)
-    * Sözlükler (Dictionaries)
-    * Sözlükler Üzerinde İşlemler
-    * String'ler
-    * String'ler Üzerinde İşlemler
-    * String'lerin Dilimlenmesi
-    * len Fonksiyonu ve in Opereratörünün İşlevleri
+## 📌Temel Kavramlar
+    ➡️ Programlama Dillerinin Tarihsel Gelişimi
+    ➡️ Python Programlama Dilinin Tarihsel Gelişimi
+    ➡️ Python Dili, Python Gerçekleştirimleri ve Python Dağıtımları
+    ➡️ Python Programlama Dilinin Temel Özellikleri
+    ➡️ Python Neden Son Dönemlerde Popülerlik Kazanmıştır?
+    ➡️ Python Ortamının Kurulumu
+    ➡️ Temel Bilgisayar Mimarisi
+    ➡️ İşletim Sistemleri
+    ➡️ Gömülü Sistemler
+    ➡️ Çevirici Programlar (Translators), Derleyiciler (Compilers) ve Yorumlayıcılar (Interpreters)
+    ➡️ IDE Kavramı
+    ➡️ Mülkiyete Sahip Yazılımlar ve Açık Kaynak Kodlu Yazılımlar
+    ➡️ Doğal Kodlu ve Ara Kodlu Çalışma Sistemleri
+    ➡️ Dil Kavramı
+    ➡️ Dillerde Sentaks ve Semantik
+    ➡️ Bilgisayar Dilleri ve Programlama Dilleri
+    ➡️ Programlama Dillerinin Sınıflandırılması
+    ➡️ Programlama Dillerinin Sentakslarının Açıklanması İçin Kullanılan Notasyonlar
 
-* __Python'da Deyimler (Statements)__
-    * Farklı Türlerin Birbirleriyle İşleme Sokulması
-    * Satırların Girinti Düzeyleri (Indent Level)
-    * Deyim Kavramı ve Deyimlerin Sınıflandırılması
-    * İfadesel Deyimler (Expression Statements)
-    * Bileşik Deyimler (Compound Statements)
-    * Suite Kavramı
-    * if Deyimi
-    * while Döngüleri
-    * for Döngüleri
-    * break ve continue Deyimleri
-    * Koşul Operatörü
-    * pass Deyimi
+## 📌Python Programlama Diline Giriş
+    ➡️ Komut Yorumlayıcı Ortamda (REPL) Çalışma
+    ➡️ Atom (Token) Kavramı ve Atomların Sınıflandırılması
+    ➡️ Boşluk Karakterleri (White Space)
+    ➡️ Dinamik Tür Sisteminin Anlamı
+    ➡️ Python'da Temel Veri Türleri
+    ➡️ Değiştirilebilir (Mutable) ve Değiştirilemez (Immutable) Tür Kavramları
+    ➡️ Python'da Değişkenlerin ve Nesnelerin Yaratılması
+    ➡️ Python'da Sabitler
+    ➡️ Adres Kavramı ve Nesnelerin Adresleri
+    ➡️ Değişkenler ve Nesneler Arasındaki İlişki
+    ➡️ Python'da Dinamik Tür Sisteminin Gerçekleştirilme Biçimi
+    ➡️ Python Standart Kütüphanesi Nedir ve Nelerden Oluşmaktadır? 
+    ➡️ Fonksiyon ve Metot Kavramları
+    ➡️ Built-in Fonksiyon ve Sınıf Kavramları
+    ➡️ Operatör Kavramı, Operatörler Arasındaki Öncelik İlişkileri
+    ➡️ Python'da Operatörler
+    ➡️ Tür Dönüştürmeleri 
+    ➡️ input ve print Fonksiyonlarının Ayrıntıları
+    ➡️ Python Programlarının Yazılması ve Çalıştırılması
 
-* __Fonksiyonların Tanımlanması ve Fonksiyonlarla İşlemler__
-    * Fonksiyonların Tanımlanması ve Fonksiyon Nesneleri
-    * Fonksiyon İsimlerinin Anlamı
-    * Fonksiyonların Parametre Değişkenleri
-    * Fonksiyonların \*'lı ve \**'lı Parametreleri
-    * Fonksiyon Çağrılarında Argümanların Kullanımı
-    * \*'lı \**'lı Argümanlar
-    * Fonksiyon Parametrelerinde Tür Kontrolü
-    * İç İçe Fonksiyon Tanımlamaları
+## 📌Python'da Temel Veri Yapıları
+    ➡️ Dolaşılabilir (Iterable) Nesne Kavramı
+    ➡️ range Fonksiyonu
+    ➡️ Listeler
+    ➡️ Listeler Üzerinde İşlemler
+    ➡️ Listeler Üzerinde Dilimleme İşlemleri (List Slicing)
+    ➡️ Listelerin Açılması (List Unpacking)
+    ➡️ Listelerle Çok Boyutlu Dizilerin Oluşturulması
+    ➡️ Demetler (Tuples)
+    ➡️ Demetler Üzerinde İşlemler
+    ➡️ Demetlerin Açılması (Tuple Unpacking)
+    ➡️ Kümeler (Sets)
+    ➡️ Kümeler Üzerinde İşlemler
+    ➡️ Değiştirilemez Kümeler (Frozen Sets)
+    ➡️ Sözlükler (Dictionaries)
+    ➡️ Sözlükler Üzerinde İşlemler
+    ➡️ String'ler
+    ➡️ String'ler Üzerinde İşlemler
+    ➡️ String'lerin Dilimlenmesi
+    ➡️ len Fonksiyonu ve in Opereratörünün İşlevleri
 
-* __Modüller__
-    * Modüllerin Oluşturulması
-    * Modüllerin import Edilmesi
-    * Modül İsimlerinin Anlamı
-    * sys.path Listesinin Anlamı
-    * Python Programlarında Çalışma Dizinlerinin Değiştirilmesi
-    * Modülün import Edilmesiyle Çalıştırılması Arasındaki Farklar
+## 📌Python'da Deyimler (Statements)
+    ➡️ Farklı Türlerin Birbirleriyle İşleme Sokulması
+    ➡️ Satırların Girinti Düzeyleri (Indent Level)
+    ➡️ Deyim Kavramı ve Deyimlerin Sınıflandırılması
+    ➡️ İfadesel Deyimler (Expression Statements)
+    ➡️ Bileşik Deyimler (Compound Statements)
+    ➡️ Suite Kavramı
+    ➡️ if Deyimi
+    ➡️ while Döngüleri
+    ➡️ for Döngüleri
+    ➡️ break ve continue Deyimleri
+    ➡️ Koşul Operatörü
+    ➡️ pass Deyimi
 
-* __Tamamlayıcı Konular__
-    * Python'da Rastgele Sayıların Elde Edilmesi
-    * Değişkenlerin Faaliyet Alanları (Scope)
-    * Değişkenlerin Ömürleri
-    * enumerate, map, filter ve zip Fonksiyonları
-    * Python Yorumlayıcısında İsim Arama Mekanizması
-    * bytes ve bytearray Türleri
-    * Permütasyon ve Kombinasyon İşlemleri
+# 📌Fonksiyonların Tanımlanması ve Fonksiyonlarla İşlemler
+    ➡️ Fonksiyonların Tanımlanması ve Fonksiyon Nesneleri
+    ➡️ Fonksiyon İsimlerinin Anlamı
+    ➡️ Fonksiyonların Parametre Değişkenleri
+    ➡️ Fonksiyonların \*'lı ve \**'lı Parametreleri
+    ➡️ Fonksiyon Çağrılarında Argümanların Kullanımı
+    ➡️ \*'lı \**'lı Argümanlar
+    ➡️ Fonksiyon Parametrelerinde Tür Kontrolü
+    ➡️ İç İçe Fonksiyon Tanımlamaları
 
-* __İçlemler (Comprehensions)__
-    * İçlemlerin Genel Sentaks Biçimleri
-    * Liste İçlemleri (List Comprehensions)
-    * Küme İçlemleri (Set Comprehensions)
-    * Sözlük İçlemleri (Dictionary Comprehensions)
-    * İçlemler nerede Kullanılır ve İçlemlere Neden Gereksinim Duyulmaktadır?
+## 📌Modüller
+    ➡️ Modüllerin Oluşturulması
+    ➡️ Modüllerin import Edilmesi
+    ➡️ Modül İsimlerinin Anlamı
+    ➡️ sys.path Listesinin Anlamı
+    ➡️ Python Programlarında Çalışma Dizinlerinin Değiştirilmesi
+    ➡️ Modülün import Edilmesiyle Çalıştırılması Arasındaki Farklar
+
+## 📌Tamamlayıcı Konular
+    ➡️ Python'da Rastgele Sayıların Elde Edilmesi
+    ➡️ Değişkenlerin Faaliyet Alanları (Scope)
+    ➡️ Değişkenlerin Ömürleri
+    ➡️ enumerate, map, filter ve zip Fonksiyonları
+    ➡️ Python Yorumlayıcısında İsim Arama Mekanizması
+    ➡️ bytes ve bytearray Türleri
+    ➡️ Permütasyon ve Kombinasyon İşlemleri
+
+## 📌İçlemler (Comprehensions)
+    ➡️ İçlemlerin Genel Sentaks Biçimleri
+    ➡️ Liste İçlemleri (List Comprehensions)
+    ➡️ Küme İçlemleri (Set Comprehensions)
+    ➡️ Sözlük İçlemleri (Dictionary Comprehensions)
+    ➡️ İçlemler nerede Kullanılır ve İçlemlere Neden Gereksinim Duyulmaktadır?
 
 * __Sınıflar__
     * Nesne Yönelimli Programlama Modeli ve Sınıf Kavramı
