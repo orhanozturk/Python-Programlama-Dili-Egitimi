@@ -81,7 +81,7 @@
     ➡️ Koşul Operatörü
     ➡️ pass Deyimi
 
-# 📌Fonksiyonların Tanımlanması ve Fonksiyonlarla İşlemler
+## 📌Fonksiyonların Tanımlanması ve Fonksiyonlarla İşlemler
     ➡️ Fonksiyonların Tanımlanması ve Fonksiyon Nesneleri
     ➡️ Fonksiyon İsimlerinin Anlamı
     ➡️ Fonksiyonların Parametre Değişkenleri
@@ -115,7 +115,7 @@
     ➡️ Sözlük İçlemleri (Dictionary Comprehensions)
     ➡️ İçlemler nerede Kullanılır ve İçlemlere Neden Gereksinim Duyulmaktadır?
 
-* __Sınıflar__
+## 📌Sınıflar
     * Nesne Yönelimli Programlama Modeli ve Sınıf Kavramı
     * Sınıfların Tanımlanması
     * Sınıflar Türünden Nesnelerin Yaratılması
@@ -146,20 +146,20 @@
     * Betimleyiciler
     * Sınıfların \__get\__, \__set\__ ve \__delete\__ Metotları
 
-* __Dekoratörler__
+## 📌Dekoratörler
     * Dekoratörlerin Anlamı
     * Fonksiyon Dekoratörleri
     * Sınıf Dekoratörleri
     * Önemli sınıf Dekaratörleri
 
-* __Exception Mekanizması__
+## 📌Exception Mekanizması
     * Python'da Exception Mekanizmasının Kullanımı
     * Exception'ların oluşturulması ve yakalanması
     * Exception Sınıflarının Yazılması
     * Çok Karşılaşılan Exception Sınıfları
     * with deyimi
 
-* __Python'da Dosya İşlemleri__
+## 📌Python'da Dosya İşlemleri
     * Dosya İşlemleri
     * Dosyaların Açılması ve Kapatılması
     * Dosyalarda Yazma ve Okuma İşlemleri
@@ -167,28 +167,26 @@
     * Text Dosyalarda Karakter Kodlaması (Character Encoding)
     * Karakter Kodlama Dönüştürmeleri
 
-* __Üretici Fonksiyonlar ve Lambda İfadeleri__
+## 📌Üretici Fonksiyonlar ve Lambda İfadeleri
     * Üretici Fonksiyon (Generators) Kavramı
     * Üretici Fonksiyonların Tanımlanması ve Kullanılması
     * Lambda İfadeleri
 
-* __Diğer Önemli Built-In Fonksiyonlar__
+## 📌Diğer Önemli Built-In Fonksiyonlar
     * eval Fonksiyonu
     * exec Fonksiyonu
     * compiler Fonksiyonu
     * property Fonksiyonu
     * locals Fonksiyonu
 
-* __Python'da Paketler (Packages)__
+## 📌Python'da Paketler (Packages)
     * Paket Kavramı
     * Paketlerin Oluşturulması ve import Edilmesi
     * Paketlerdeki \__init\__.py Dosyasının Anlamı
     * İç İçe Paketlerin Oluşturulması
     * Paket Yönetimi
     
-# Uygulama Kısmı
-
-* __Genel Amaçlı Bazı İşlemlerin Gerçekleştirilmesi__
+## 📌Genel Amaçlı Bazı İşlemlerin Gerçekleştirilmesi
     * Standart Kütüphanede Tarih ve Zaman İşlemleri Yapan Fonksiyonların ve Sınıfların Kullanımı
     * Dizin ve Dosyalar Üzerinde İşlemler Yapan Fonksiyonların ve Sınıfların Kullanımı
     * İşletim Sistemi İle İlgili Aşağı Seviyeli Önemli Bazı İşlemlerin Yapılması
@@ -200,7 +198,7 @@
     * Nesnelerin Seri Hale Getirilmesi 
     * Programların Komut Satırı Argümanları
 
-* __Python'da Veritabanı İşlemleri__
+## 📌Python'da Veritabanı İşlemleri
    * Veritabanı Yönetim Sistemleri (VTYS)
    * SqLite, MySQL ve SqlServer VTYS'leri Hakkında Temel Bilgiler
    * İlişkisel Veritabanları
@@ -210,7 +208,7 @@
    * VTYS'lerle Sorgulama İşlemleri
    * Python'da Anahtar Değer Temelli DBM Veritabanı Kullanımı
 
-* __Python'da Thread Uygulamaları__
+## 📌Python'da Thread Uygulamaları
    * Thread Kavramı
    * Thread'lerin Yaratılması ve Sonlanması
    * Thread'lerle İlgili Temel İşlemler
@@ -226,12 +224,12 @@
    * Paylaşılan Bellek Alanlarının Kullanımı
    * Boru Mekanizmasının Kullanımı
 
-* __Python'da GUI Uygulamaları__
+## 📌Python'da GUI Uygulamaları
    * GUI Ortamlarında Mesaj Tabanlı Çalışma Modeli
    * PyQt Kütüphanesinin Kullanılması
    * Tkinter Kütüphanesinin Kullanılması
 
-* __Python'da Proseslerarası Haberleşme ve Network Ağ Haberleşmeleri__
+## 📌Python'da Proseslerarası Haberleşme ve Network Ağ Haberleşmeleri
    * IP Protokol Ailesi
    * Python'da Soket Programlama
    * Client-Server Çalışma Modeli
@@ -241,13 +239,13 @@
    * FTP İşlemleri
    * Dağıtık Uygulamaların Temelleri
 
-* __Çeşitli Dosya Formatları Üzerinde İşlemler__
+## 📌Çeşitli Dosya Formatları Üzerinde İşlemler
    * Dosya Sıkıştırma ve Açma İşlemleri 
    * CSV Dosyalarıyla ve Konfigürasyon Dosyalarıyla İşlemler
    * Temel XML İşlemleri
    * Temel HTML Parse İşlemleri
 
-* __Numpy Kütüphanesinin Kullanımı__
+## 📌Numpy Kütüphanesinin Kullanımı
    * Numpy Kütüphanesinde Temel İşlemler
    * Numpy Dizileri İle Vektörel İşlemler
    * NumPy Dizilerinde İndeksleme ve Dilimleme
@@ -256,7 +254,7 @@
    * NumPy Dosya İşlemleri
    * İleri Düzey Numpy İşlemleri
 
-* __Sembolik Matemetiksel İşlemler ve SymPy Kütüphanesinin Kullanımı__
+## 📌Sembolik Matemetiksel İşlemler ve SymPy Kütüphanesinin Kullanımı
    * SymPy Kütüphanesinin Tanıtımı
    * SymPy'da İfadelerin Oluşturulması ve İfade Ağaçları
    * İfadelerin Sadeleştirilmesi
@@ -264,13 +262,13 @@
    * İfadelerin Değerlerinin Elde Edilmesi
    * İfadeler Üzerinde Matematiksel İşlemler
 
-* __Python'da Grafik Çizimleri ve PyPlot Kütüphanesinin Kullanımı__
+## 📌Python'da Grafik Çizimleri ve PyPlot Kütüphanesinin Kullanımı
    * Grafik Çizimi İle İlgili Temel Nesneler
    * Grafiklerin Çizdirilmesi
    * Çizim Nesnelerine İlişkin Ayrıntılar
    * Çizgi Grafikleri, Çubuk Grafikleri, Histogram'lar, Pasta Grafikleri
 
-* __Pandas Kütüphanesinin Kullanımı__
+## 📌Pandas Kütüphanesinin Kullanımı
    * Pandas Kütüphanesinin Amacı
    * Seriler Üzerinde İşlemler
    * Seriler Üzerinde İndeksleme
@@ -284,7 +282,7 @@
    * Verilerin Gruplanması ve Birleştirilmesi
    * Pandas'ta Verilerin Görüntülenmesi
 
-* __Özel Bazı Konular__
+## 📌Özel Bazı Konular
    * Şifreleme İşlemleri
    * Pyton'da Yazılım Test İşlemleri
    * Düzenli İfadelerle İşlemler (Regular Expressions)
