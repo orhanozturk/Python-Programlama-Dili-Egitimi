@@ -1,4 +1,4 @@
-# Python Programlama Dili Egitimi (Düzenlenmektedir)
+# 📚Python Programlama Dili Egitimi (Düzenlenmektedir)
 
 ### İçerik, Ders işleme sırası ile birebir değildir. Konu akışı farklılık gösterebilir. <br>
 
