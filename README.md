@@ -2,7 +2,6 @@
 
 ### İçerik, Ders işleme sırası ile birebir değildir. Konu akışı farklılık gösterebilir. <br>
 
-	Konuları içeren Uygulama Dersleri olacaktır.
 	Ortalama 2 dersten sonra Oyun Quizleri yapılacaktır.
 
 ## 📌Temel Kavramlar
