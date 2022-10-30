@@ -10,7 +10,6 @@
     ➡️ Python Programlama Dilinin Tarihsel Gelişimi
     ➡️ Python Dili, Python Gerçekleştirimleri ve Python Dağıtımları
     ➡️ Python Programlama Dilinin Temel Özellikleri
-    ➡️ Python Neden Son Dönemlerde Popülerlik Kazanmıştır?
     ➡️ Python Ortamının Kurulumu
     ➡️ Temel Bilgisayar Mimarisi
     ➡️ İşletim Sistemleri
@@ -101,8 +100,8 @@
 
 ## 📌Tamamlayıcı Konular
     ➡️ Python'da Rastgele Sayıların Elde Edilmesi
-    ➡️ Değişkenlerin Faaliyet Alanları (Scope)
     ➡️ Değişkenlerin Ömürleri
+    ➡️ Değişkenlerin Faaliyet Alanları (Scope)
     ➡️ enumerate, map, filter ve zip Fonksiyonları
     ➡️ Python Yorumlayıcısında İsim Arama Mekanizması
     ➡️ bytes ve bytearray Türleri
@@ -208,6 +207,11 @@
     ➡️ VTYS'lerle Sorgulama İşlemleri
     ➡️ Python'da Anahtar Değer Temelli DBM Veritabanı Kullanımı
 
+## 📌Python'da GUI Uygulamaları
+    ➡️ GUI Ortamlarında Mesaj Tabanlı Çalışma Modeli
+    ➡️ PyQt Kütüphanesinin Kullanılması
+    ➡️ Tkinter Kütüphanesinin Kullanılması
+
 ## 📌Python'da Thread Uygulamaları
     ➡️ Thread Kavramı
     ➡️ Thread'lerin Yaratılması ve Sonlanması
@@ -224,10 +228,11 @@
     ➡️ Paylaşılan Bellek Alanlarının Kullanımı
     ➡️ Boru Mekanizmasının Kullanımı
 
-## 📌Python'da GUI Uygulamaları
-    ➡️ GUI Ortamlarında Mesaj Tabanlı Çalışma Modeli
-    ➡️ PyQt Kütüphanesinin Kullanılması
-    ➡️ Tkinter Kütüphanesinin Kullanılması
+## 📌Çeşitli Dosya Formatları Üzerinde İşlemler
+    ➡️ Dosya Sıkıştırma ve Açma İşlemleri 
+    ➡️ CSV Dosyalarıyla ve Konfigürasyon Dosyalarıyla İşlemler
+    ➡️ Temel XML İşlemleri
+    ➡️ Temel HTML Parse İşlemleri
 
 ## 📌Python'da Proseslerarası Haberleşme ve Network Ağ Haberleşmeleri
     ➡️ IP Protokol Ailesi
@@ -238,12 +243,6 @@
     ➡️ E-Posta Alma ve Gönderme
     ➡️ FTP İşlemleri
     ➡️ Dağıtık Uygulamaların Temelleri
-
-## 📌Çeşitli Dosya Formatları Üzerinde İşlemler
-    ➡️ Dosya Sıkıştırma ve Açma İşlemleri 
-    ➡️ CSV Dosyalarıyla ve Konfigürasyon Dosyalarıyla İşlemler
-    ➡️ Temel XML İşlemleri
-    ➡️ Temel HTML Parse İşlemleri
 
 ## 📌Numpy Kütüphanesinin Kullanımı
     ➡️ Numpy Kütüphanesinde Temel İşlemler
@@ -282,7 +281,7 @@
     ➡️ Verilerin Gruplanması ve Birleştirilmesi
     ➡️ Pandas'ta Verilerin Görüntülenmesi
 
-## 📌Özel Bazı Konular
+## 📌Extra Bazı Konular
     ➡️ Şifreleme İşlemleri
     ➡️ Pyton'da Yazılım Test İşlemleri
     ➡️ Düzenli İfadelerle İşlemler (Regular Expressions)
